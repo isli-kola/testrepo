@@ -1,0 +1,3 @@
+-Do Jupyter notebooks on the internet
+-github saved on favourites
+-see what rstudio is there online
